@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jefferson Oliveira, someone really passionate about this tecnology world.
+- 👋 # Hi, I’m Jefferson Oliveira, someone really passionate about this tecnology world.
 - 👀 I’m interested in learning as much as I can as well as callaborating with everyone here.
 - 🌱 I’m currently dedicating my time on learning JavaScript and React but I'm aldo extending my curiosity to .NETC#
 <div align="center">
