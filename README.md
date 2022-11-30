@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Jefferson Oliveira, someone really passionate about this tecnology world.
 - 👀 I’m interested in learning as much as I can as well as callaborating with everyone here.
-- 🌱 I’m currently dedicating my time on learning JavaScript and React but I'm aldo extending my curiosity to .NET C#
+- 🌱 I’m currently dedicating my time on learning JavaScript and React but I'm aldo extending my curiosity to .NET C#<br>
 <div align="center">
-  <a href="https://github.com/itsJeffOliveira">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsJeffOliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsJeffOliveira&layout=compact&langs_count=7&theme=tokyonight"/>
+<a href="https://github.com/itsJeffOliveira">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsJeffOliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsJeffOliveira&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Jeff-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
